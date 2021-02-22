@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MadalinV/react-todo-list/static/css/main.0820981d.chunk.css",
+    "main.js": "/MadalinV/react-todo-list/static/js/main.bef40603.chunk.js",
+    "main.js.map": "/MadalinV/react-todo-list/static/js/main.bef40603.chunk.js.map",
+    "runtime-main.js": "/MadalinV/react-todo-list/static/js/runtime-main.5f27a105.js",
+    "runtime-main.js.map": "/MadalinV/react-todo-list/static/js/runtime-main.5f27a105.js.map",
+    "static/js/2.ddbf8062.chunk.js": "/MadalinV/react-todo-list/static/js/2.ddbf8062.chunk.js",
+    "static/js/2.ddbf8062.chunk.js.map": "/MadalinV/react-todo-list/static/js/2.ddbf8062.chunk.js.map",
+    "static/js/3.28876cb8.chunk.js": "/MadalinV/react-todo-list/static/js/3.28876cb8.chunk.js",
+    "static/js/3.28876cb8.chunk.js.map": "/MadalinV/react-todo-list/static/js/3.28876cb8.chunk.js.map",
+    "index.html": "/MadalinV/react-todo-list/index.html",
+    "static/css/main.0820981d.chunk.css.map": "/MadalinV/react-todo-list/static/css/main.0820981d.chunk.css.map",
+    "static/js/2.ddbf8062.chunk.js.LICENSE.txt": "/MadalinV/react-todo-list/static/js/2.ddbf8062.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f27a105.js",
+    "static/js/2.ddbf8062.chunk.js",
+    "static/css/main.0820981d.chunk.css",
+    "static/js/main.bef40603.chunk.js"
+  ]
+}
